@@ -1,0 +1,11 @@
+{
+  "name": "chromeplayer",
+  "description": "Provides a web interface for playing streams to Chromecasts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http": "*",
+	"chromecast-js": "*"
+  }
+}
